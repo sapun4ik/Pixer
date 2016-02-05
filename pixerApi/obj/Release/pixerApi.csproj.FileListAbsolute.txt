@@ -1,0 +1,4 @@
+C:\Users\Анатолий\Desktop\pixerApi\pixerApi\bin\Release\pixerApi.dll
+C:\Users\Анатолий\Desktop\pixerApi\pixerApi\bin\Release\pixerApi.pdb
+C:\Users\Анатолий\Desktop\pixerApi\pixerApi\obj\Release\pixerApi.dll
+C:\Users\Анатолий\Desktop\pixerApi\pixerApi\obj\Release\pixerApi.pdb

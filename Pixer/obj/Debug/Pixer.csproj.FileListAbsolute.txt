@@ -1,0 +1,195 @@
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\Sapun4ik\Desktop\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\Sapun4ik\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\a.sapunov\Desktop\Спаунов\PixerProject\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\a.sapunov\Desktop\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+J:\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+J:\pixerApi\Pixer\obj\Debug\Pixer.exe
+J:\pixerApi\Pixer\obj\Debug\Pixer.pdb
+J:\pixerApi\Pixer\bin\Debug\Pixer.exe
+J:\pixerApi\Pixer\bin\Debug\Pixer.pdb
+J:\pixerApi\Pixer\bin\Debug\pixerApi.dll
+J:\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+J:\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+J:\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+J:\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+J:\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+C:\Users\Анатолий\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\a.sapunov\Desktop\Маше\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.exe
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.pdb
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\bin\Debug\Pixer.pdb
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\bin\Debug\pixerApi.dll
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+J:\ИО  РЕЛИЗ\Толя\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\bin\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\bin\Debug\pixerApi.dll
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.FreeTransform.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Transform.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Сurves.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.Difference.resources
+C:\Users\Анатолий\Desktop\Толя\pixerApi\Pixer\obj\Debug\Pixer.SaveJPG.resources
+J:\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.exe
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.pdb
+J:\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe
+J:\Толя\pixerApi\Pixer\bin\Debug\Pixer.pdb
+J:\Толя\pixerApi\Pixer\bin\Debug\pixerApi.dll
+J:\Толя\pixerApi\Pixer\bin\Debug\pixerApi.pdb
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Difference.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.FreeTransform.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.SaveJPG.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Transform.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Сurves.resources
+J:\Толя\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+E:\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe.config
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.exe
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.pdb
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.csprojResolveAssemblyReference.cache
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Binary.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.BrightnessAndContrast.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.ColorOverlay.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Convolution.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Difference.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Form1.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.FreeTransform.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Gaussian.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.HSV.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Medianer.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Palette.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Properties.Resources.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.SaveJPG.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Transform.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.Сurves.resources
+E:\Толя\pixerApi\Pixer\obj\Debug\Pixer.csproj.GenerateResource.Cache
+E:\Толя\pixerApi\Pixer\bin\Debug\Pixer.exe
+E:\Толя\pixerApi\Pixer\bin\Debug\Pixer.pdb
+E:\Толя\pixerApi\Pixer\bin\Debug\pixerApi.dll
+E:\Толя\pixerApi\Pixer\bin\Debug\pixerApi.pdb

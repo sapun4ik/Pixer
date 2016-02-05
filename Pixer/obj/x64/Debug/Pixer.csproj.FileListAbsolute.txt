@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\x64\Debug\Pixer.exe.config
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\x64\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\x64\Debug\Pixer.pdb
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\x64\Debug\pixerApi.dll
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\bin\x64\Debug\pixerApi.pdb
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.Form1.resources
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.exe
+C:\Users\Анатолий\Desktop\pixerApi\Pixer\obj\x64\Debug\Pixer.pdb
